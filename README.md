@@ -69,13 +69,6 @@ jupyter notebook
 
 ---
 
-## 📊 Output & Insights
-
-- Heatmaps and scatter plots of clustered stocks
-- Cluster-specific performance behavior
-- Mean reversion or breakout detection strategies
-
----
 
 ## 📚 Inspiration
 
